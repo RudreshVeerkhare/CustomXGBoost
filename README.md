@@ -1,6 +1,6 @@
 # CustomXGBoost
 XGBoost is the state of the art machine learning algorithm. So to get a good understanding of what is going under the hood of the XGBoost I implemented it from scratch using only Numpy.  
-While implementing the gradient boosting I realize it's similar to gradient descent in neural networks, so rather than just doing simple gradient descent, I tried using ADAM and RMSProp Optimizers and to my surprise, the results improved compared to Simple XGBoost.  
+While implementing the gradient boosting I realize that it's similar to gradient descent in neural networks, so rather than just doing simple gradient descent, I tried using ADAM and RMSProp Optimizers and to my surprise, the results improved compared to Simple XGBoost.  
 The comparison between algorithms is given inside `Comparision.ipynb` and all the code for CustomXGBoost is given in `CustomXGBoost.py`
 
 # Overview of the CustomXGBoost
